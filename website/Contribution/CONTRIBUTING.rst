@@ -55,6 +55,7 @@ Modules
     may be used, to provide a direct link to the addon README, which includes proper credits
     (authors, contributors and theirs companies), and links to the relevant information on the OCA website.
 * Don't use your company logo or your corporate branding. Using the author and the list of contributors is enough for people to know about your employer/company and contact you.
+* Write everything in American English (en_US), as that is Odoo's base language.
 
 Version numbers
 ===============
